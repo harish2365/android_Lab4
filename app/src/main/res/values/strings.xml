@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab04</string>
+    <string name="NameHint">Enter Name</string>
+    <string name="Hint_Email">Enter Email</string>
+    <string name="Hint_Password">Enter Password</string>
+    <string name="Hint_RePass">Re enter Password</string>
 </resources>
